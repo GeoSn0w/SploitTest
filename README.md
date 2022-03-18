@@ -7,6 +7,10 @@ Synacktiv have posted a tweetable PoC here: https://twitter.com/Synacktiv/status
 
 With this app you can test if your device is vulnerable to this bug. If it is, it can be used for jailbreaking on your device!
 
+## How to use:
+
+Sideload the application and run it. Press the Run PoC button. If the device reboots, it's vulnerable. If nothing happens, it's not.
+
 ## Credits 
 
 * App developed by GeoSn0w (@FCE365): https://twitter.com/FCE365
